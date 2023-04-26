@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages-olga/static/css/main.073c9b0a.css",
+    "main.js": "/react-gh-pages-olga/static/js/main.1113b05a.js",
+    "static/js/787.baa85533.chunk.js": "/react-gh-pages-olga/static/js/787.baa85533.chunk.js",
+    "index.html": "/react-gh-pages-olga/index.html",
+    "main.073c9b0a.css.map": "/react-gh-pages-olga/static/css/main.073c9b0a.css.map",
+    "main.1113b05a.js.map": "/react-gh-pages-olga/static/js/main.1113b05a.js.map",
+    "787.baa85533.chunk.js.map": "/react-gh-pages-olga/static/js/787.baa85533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1113b05a.js"
+  ]
+}
